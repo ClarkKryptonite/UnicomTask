@@ -174,10 +174,6 @@ USERS_COVER | config.json中内容
 
 同时您也可以安装[pull](https://github.com/apps/pull)应用，也可实现自动同步上游代码。
 
-# 申明
-
-本项目仅用于学习。
-
 # 参考项目
 
 [mixool/HiCnUnicom](https://github.com/mixool/HiCnUnicom)，感谢该项目对于登录部分的思路
